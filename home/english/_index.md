@@ -25,18 +25,6 @@ Aspose.Words for .NET offers a comprehensive set of visual tutorials to help dev
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-#### [Add Content Using Document Builder in Aspose.Words for .NET ](./words/net/add-content-using-document-builder/)
-Learn how to insert text, tables, images, and other elements into Word documents programmatically using the Document Builder class.
-
-{{< tutorial-card link="./words/net/add-content-using-document-builder/build-table/" title="Create a Word Document with Table" imgSrc="./words/net/add-content-using-document-builder/build-table/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-break/" title="Create a Multi-Page Word Document with Aspose.Words" imgSrc="./words/net/add-content-using-document-builder/insert-break/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-floating-image/" title="Create Word Document with Floating Image in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-floating-image/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-horizontal-rule/" title="Create Word Document with Horizontal Rule in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-horizontal-rule/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-inline-image/" title="Insert Inline Image in Word Document" imgSrc="./words/net/add-content-using-document-builder/insert-inline-image/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-paragraph/" title="Create Word Document with Aspose.Words " imgSrc="./words/net/add-content-using-document-builder/insert-paragraph/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-table-contents/" title="Create a Word Document with Table of Contents in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-table-contents/images/thumb.png" >}}
-{{< /blocks/products/pf/tutorial-page-section >}}
-{{< blocks/products/pf/tutorial-page-section >}}
 #### [Working with Table Styles and Formatting in Aspose.Words for .NET](./words/net/working-with-table-styles-and-formatting/)
 Discover how to create, format, and customize tables in Word documents, including setting borders, styles, and cell padding.
 
@@ -52,15 +40,6 @@ Discover how to create, format, and customize tables in Word documents, includin
 {{< tutorial-card link="./words/net/working-with-table-styles-and-formatting/table-tittle-and-description/" title="Add Title & Description to Table in Word" imgSrc="./words/net/working-with-table-styles-and-formatting/table-tittle-and-description/images/thumb.png" >}}
 {{< /blocks/products/pf/tutorial-page-section >}}
 {{< blocks/products/pf/tutorial-page-section >}}
-#### [Document Formatting with Aspose.Words for .NET](./words/net/document-formatting/)
-Understand how to apply various formatting options to paragraphs, lists, and document elements to enhance the visual appeal of your Word files.
-
-{{< tutorial-card link="./words/net/document-formatting/apply-border-and-shading/" title="Apply Borders & Shading to Paragraph in Aspose.Words " imgSrc="./words/net/document-formatting/apply-border-and-shading/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/document-formatting/apply-paragraph-style/" title="Create and Style a Word Document in Aspose.Words " imgSrc="./words/net/document-formatting/apply-paragraph-style/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/document-formatting/multilevel-list-formatting/" title="Create Multilevel Lists in Word with Aspose.Words" imgSrc="./words/net/document-formatting/multilevel-list-formatting/images/thumb.png" >}}
-{{< tutorial-card link="./words/net/document-formatting/paragraph-formatting/" title="Format Paragraphs " imgSrc="./words/net/document-formatting/paragraph-formatting/images/thumb.png" >}}
-{{< /blocks/products/pf/tutorial-page-section >}}
-{{< blocks/products/pf/tutorial-page-section >}}
 #### [Working with Charts in Aspose.Words ](./words/net/working-with-charts/)
 Learn to insert and customize different types of charts, such as bar, line, and scatter charts, within Word documents.
 {{< tutorial-card link="./words/net/working-with-charts/bounds-of-axis/" title="Create a Document with Charts " imgSrc="./words/net/working-with-charts/bounds-of-axis/images/thumb.png" >}}
@@ -72,12 +51,33 @@ Learn to insert and customize different types of charts, such as bar, line, and 
 {{< tutorial-card link="./words/net/working-with-charts/insert-simple-column-chart/" title="Insert a Simple Column Chart in Word " imgSrc="./words/net/working-with-charts/insert-simple-column-chart/images/thumb.png" >}}
 {{< /blocks/products/pf/tutorial-page-section >}}
 {{< blocks/products/pf/tutorial-page-section >}}
+#### [Document Formatting with Aspose.Words for .NET](./words/net/document-formatting/)
+Understand how to apply various formatting options to paragraphs, lists, and document elements to enhance the visual appeal of your Word files.
+
+{{< tutorial-card link="./words/net/document-formatting/apply-border-and-shading/" title="Apply Borders & Shading to Paragraph in Aspose.Words " imgSrc="./words/net/document-formatting/apply-border-and-shading/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/document-formatting/apply-paragraph-style/" title="Create and Style a Word Document in Aspose.Words " imgSrc="./words/net/document-formatting/apply-paragraph-style/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/document-formatting/multilevel-list-formatting/" title="Create Multilevel Lists in Word with Aspose.Words" imgSrc="./words/net/document-formatting/multilevel-list-formatting/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/document-formatting/paragraph-formatting/" title="Format Paragraphs " imgSrc="./words/net/document-formatting/paragraph-formatting/images/thumb.png" >}}
+{{< /blocks/products/pf/tutorial-page-section >}}
+{{< blocks/products/pf/tutorial-page-section >}}
 #### [Working with Fonts in Aspose.Words for .NET](./words/net/working-with-fonts/)
 Explore font-related features such as font styles, line spacing, emphasis marks, and other typography settings in Word documents.
 
 {{< tutorial-card link="./words/net/working-with-fonts/font-formatting/" title="Create Font Formatting in Word " imgSrc="./words/net/working-with-fonts/font-formatting/images/thumb.png" >}}
 {{< tutorial-card link="./words/net/working-with-fonts/get-font-line-spacing/" title="Get Font Line Spacing in Word Document" imgSrc="./words/net/working-with-fonts/get-font-line-spacing/images/thumb.png" >}}
 {{< tutorial-card link="./words/net/working-with-fonts/set-font-emphasis-mark/" title="Set Emphasis Mark in Word Document " imgSrc="./words/net/working-with-fonts/set-font-emphasis-mark/images/thumb.png" >}}
+{{< /blocks/products/pf/tutorial-page-section >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+#### [Add Content Using Document Builder in Aspose.Words for .NET ](./words/net/add-content-using-document-builder/)
+Learn how to insert text, tables, images, and other elements into Word documents programmatically using the Document Builder class.
+
+{{< tutorial-card link="./words/net/add-content-using-document-builder/build-table/" title="Create a Word Document with Table" imgSrc="./words/net/add-content-using-document-builder/build-table/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-break/" title="Create a Multi-Page Word Document with Aspose.Words" imgSrc="./words/net/add-content-using-document-builder/insert-break/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-floating-image/" title="Create Word Document with Floating Image in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-floating-image/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-horizontal-rule/" title="Create Word Document with Horizontal Rule in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-horizontal-rule/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-inline-image/" title="Insert Inline Image in Word Document" imgSrc="./words/net/add-content-using-document-builder/insert-inline-image/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-paragraph/" title="Create Word Document with Aspose.Words " imgSrc="./words/net/add-content-using-document-builder/insert-paragraph/images/thumb.png" >}}
+{{< tutorial-card link="./words/net/add-content-using-document-builder/insert-table-contents/" title="Create a Word Document with Table of Contents in .NET" imgSrc="./words/net/add-content-using-document-builder/insert-table-contents/images/thumb.png" >}}
 {{< /blocks/products/pf/tutorial-page-section >}}
 {{< blocks/products/pf/tutorial-page-section >}}
 #### [Working with Form Fields in Aspose.Words for .NET](./words/net/working-with-form-fields/)
