@@ -111,6 +111,30 @@ Discover how to insert and manipulate various shapes, including grouped shapes a
 Learn to add text and image watermarks to Word documents for branding or security purposes.
 {{< tutorial-card link="./words/net/working-with-watermark/add-text-watermark/" title="Add Text Watermark in Word Document " imgSrc="./words/net/working-with-watermark/add-text-watermark/images/thumb.png" >}}
 {{< /blocks/products/pf/tutorial-page-section >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+## [Aspose.Cells Visual Tutorials](./cells/)
+Dive into our Aspose.Cells Visual Tutorials designed for developers and enthusiasts eager to master spreadsheet manipulation. Each tutorial covers essential features of the Aspose.Cells library, from basic operations like creating and formatting spreadsheets to advanced functionalities such as data visualization and formula manipulation. Whether you're a beginner or an experienced developer, our visual guides provide comprehensive, easy-to-follow instructions alongside practical examples.
+
+Our tutorials are organized into nested pages, offering a structured approach to learning. Users can navigate through a range of topics, including working with charts, managing worksheets, and executing file conversions seamlessly. Each section is crafted to build your skills progressively, ensuring that you can apply your newfound knowledge effectively in your projects. Join us on this educational journey and unlock the full potential of Aspose.Cells!
+
+### [Aspose.Cells for .NET Visual Tutorials](./cells/net/)
+
+Aspose.Cells for .NET Visual Tutorials provide a comprehensive, step-by-step learning experience for developers looking to automate Excel file processing in .NET applications. These tutorials cover a wide range of tasks, from basic spreadsheet creation and data manipulation to advanced features like charts, pivot tables, and formula calculations. Each tutorial is designed to be visually engaging and easy to follow, making complex Excel automation tasks more accessible even to developers with minimal experience.
+{{< /blocks/products/pf/tutorial-page-section >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+#### [Mastering Charts with Aspose.Cells in .NET](./cells/net/charts/)
+Learn how to create, customize, and manage charts in .NET applications using Aspose.Cells. Explore various chart types with easy, efficient examples.
+
+{{< tutorial-card link="./cells/net/charts/applying-3d-format/" title="Create and Format 3D Charts in Excel" imgSrc="./cells/net/charts/applying-3d-format/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/change-chart-size-and-position/" title="Resize and Reposition Chart in Excel" imgSrc="./cells/net/charts/change-chart-size-and-position/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/change-tick-label-direction/" title="Change Chart Tick Label Direction in Excel" imgSrc="./cells/net/charts/change-tick-label-direction/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/create-chart-pdf-with-desired-page-size/" title="Create PDF from Excel Chart with Specified Page Size" imgSrc="./cells/net/charts/create-chart-pdf-with-desired-page-size/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/create-line-with-data-marker-chart/" title="Create a Line Chart with Data Markers in Aspose.Cells" imgSrc="./cells/net/charts/create-line-with-data-marker-chart/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/find-type-of-x-and-y-values-of-points-in-chart-series/" title="Find Type of X and Y Values in Chart Points" imgSrc="./cells/net/charts/find-type-of-x-and-y-values-of-points-in-chart-series/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/get-chart-sub-title-for-ods-file/" title="Get Chart Subtitle from ODS File using Aspose.Cells" imgSrc="./cells/net/charts/get-chart-sub-title-for-ods-file/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/set-shape-type-of-data-labels-of-chart/" title="Modify Chart Data Label Shape in Excel" imgSrc="./cells/net/charts/set-shape-type-of-data-labels-of-chart/images/thumb.png" >}}
+{{< tutorial-card link="./cells/net/charts/setting-category-data/" title="Create Excel Chart with Aspose.Cells for .NET" imgSrc="./cells/net/charts/setting-category-data/images/thumb.png" >}}
+{{< /blocks/products/pf/tutorial-page-section >}}
 
 
 {{< /blocks/products/pf/main-container >}}
