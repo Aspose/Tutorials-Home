@@ -18,103 +18,103 @@ Vítejte v naší komplexní sbírce výukových programů a příkladů kódu p
 
 ## 📊 Knihovny dokumentů
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/cs/)
 Naučte se vytvářet, upravovat, převádět a tisknout dokumenty aplikace Word pomocí podrobných výukových programů a praktických příkladů kódu.
-- [.NET Tutorials](./words/net/)
-- [Výukové programy Java](./words/java/)
-- [Výukové programy Python](./words/python-net/)
+- [.NET Tutorials](../words/cs/net/)
+- [Výukové programy Java](../words/cs/java/)
+- [Výukové programy Python](../words/cs/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/cs/)
 Zvládněte manipulaci s PDF pomocí výukových programů týkajících se vytváření, úprav, převodu a technik extrakce textu.
-- [.NET výukové programy](./pdf/net/)
+- [.NET výukové programy](../pdf/cs/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/cs/)
 Postupujte podle řízených výukových programů pro manipulaci s tabulkami, provádění výpočtů a vytváření dynamických grafů ve vašich aplikacích.
-- [.NET výukové programy](./cells/net/)
+- [.NET výukové programy](../cells/cs/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/cs/)
 Naučte se programově sestavovat a upravovat prezentace PowerPoint pomocí našich komplexních výukových programů.
-- [.NET Tutorials](./slides/net/)
+- [.NET Tutorials](../slides/cs/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/cs/)
 Objevte, jak vytvářet, analyzovat a spravovat e-mailové zprávy pomocí praktických příkladů kódování a průvodců.
-- [.NET Tutorials](./email/net/)
+- [.NET Tutorials](../email/cs/net/)
 
 ---
 
 ## 🖼️ Zobrazování a grafika
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/cs/)
 Postupujte podle praktických výukových programů pro zpracování obrazu, konverzi a manipulaci v různých formátech.
-- [.NET Tutorials](./imaging/net/)
-- [Výukové programy Java](./imaging/java/)
+- [.NET Tutorials](../imaging/cs/net/)
+- [Výukové programy Java](../imaging/cs/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/cs/)
 Naučte se tvorbu grafiky a manipulaci s ní pomocí výukových programů od základních tvarů až po složité vykreslování.
-- [.NET Tutoriály](./drawing/net/)
+- [.NET Tutoriály](../drawing/cs/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/cs/)
 Prozkoumejte výukové programy pro práci se soubory Photoshopu, včetně správy vrstev a převodu formátu.
-- [.NET výukové programy](./psd/net/)
-- [Výukové programy Java](./psd/java/)
+- [.NET výukové programy](../psd/cs/net/)
+- [Výukové programy Java](../psd/cs/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/cs/)
 Postupujte podle pokynů k vytváření, úpravě a převodu 3D modelů s příklady kódu pro různé formáty.
-- [.NET výukové programy](./3d/net/)
-- [Výukové programy Java](./3d/java/)
+- [.NET výukové programy](../3d/cs/net/)
+- [Výukové programy Java](../3d/cs/java/)
 
 ---
 
 ## 🔍 Rozpoznávání a extrakce
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/cs/)
 Naučte se implementovat rozpoznávání textu z obrázků pomocí praktických výukových programů a optimalizačních technik.
-- [.NET výukové programy](./ocr/net/)
-- [Výukové programy Java](./ocr/java/)
+- [.NET výukové programy](../ocr/cs/net/)
+- [Výukové programy Java](../ocr/cs/java/)
 
-### [Aspose.BarCode](./čárový kód/)
+### [Aspose.BarCode](../čárový kód/cs/)
 Najděte podrobné průvodce pro generování a skenování různých typů čárových kódů ve vašich aplikacích.
-- [.NET Tutorials](./barcode/net/)
+- [.NET Tutorials](../barcode/cs/net/)
 
 ---
 
 ## 📝 Specializované formáty dokumentů
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/cs/)
 Objevte, jak analyzovat, vykreslovat a převádět dokumenty HTML pomocí praktických příkladů kódu.
-– [.NET výukové programy](./html/net/)
+– [.NET výukové programy](../html/cs/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/cs/)
 Postupujte podle výukových programů pro zpracování a převod souborů CAD s podrobnými příklady implementace.
-- [.NET výukové programy](./cad/net/)
+- [.NET výukové programy](../cad/cs/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/cs/)
 Naučte se techniky komprese a dekomprese s praktickými příklady pro manipulaci s archivy.
-- [.NET výukové programy](./zip/net/)
+- [.NET výukové programy](../zip/cs/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/cs/)
 Zvládněte sazbu a konverzi dokumentů TeX pomocí řízených výukových programů a úryvků kódu.
-- [.NET výukové programy](./tex/net/)
-- [Výukové programy Java](./tex/java/)
+- [.NET výukové programy](../tex/cs/net/)
+- [Výukové programy Java](../tex/cs/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/cs/)
 Postupujte podle návodů pro práci s dokumenty XPS a EPS s praktickými příklady implementace.
-- [.NET Tutorials](./page/net/)
-- [Výukové programy Java](./page/java/)
+- [.NET Tutorials](../page/cs/net/)
+- [Výukové programy Java](../page/cs/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/cs/)
 Naučte se vytvářet a manipulovat se soubory OneNote pomocí příkladů kódu od základních až po pokročilé scénáře.
-- [.NET Tutoriály](./note/net/)
-- [Výukové programy Java](./note/java/)
+- [.NET Tutoriály](../note/cs/net/)
+- [Výukové programy Java](../note/cs/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/cs/)
 Zjistěte, jak číst a zapisovat soubory Microsoft Project prostřednictvím řízených výukových programů a příkladů.
-- [.NET Tutoriály](./tasks/net/)
-- [Výukové programy Java](./tasks/java/)
+- [.NET Tutoriály](../tasks/cs/net/)
+- [Výukové programy Java](../tasks/cs/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/cs/)
 Postupujte podle výukových programů pro práci s geoprostorovými daty s příklady různých formátů a operací GIS.
-- [.NET Tutorials](./gis/net/)
+- [.NET Tutorials](../gis/cs/net/)
 
 ---
 

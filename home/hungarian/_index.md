@@ -18,103 +18,103 @@ url: /hu/
 
 ## 📊 Dokumentumkönyvtárak
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/hu/)
 Ismerje meg a Word-dokumentumok létrehozását, szerkesztését, konvertálását és nyomtatását lépésről lépésre bemutatott útmutatók és gyakorlati kódpéldák segítségével.
-- [.NET oktatóanyagok](./words/net/)
-- [Java oktatóanyagok](./words/java/)
-- [Python oktatóanyagok](./words/python-net/)
+- [.NET oktatóanyagok](../words/hu/net/)
+- [Java oktatóanyagok](../words/hu/java/)
+- [Python oktatóanyagok](../words/hu/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/hu/)
 Sajátítsa el a PDF-kezelést a létrehozási, szerkesztési, átalakítási és szövegkivonási technikákat bemutató oktatóanyagokkal.
-- [.NET oktatóanyagok](./pdf/net/)
+- [.NET oktatóanyagok](../pdf/hu/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/hu/)
 Kövesse az irányított oktatóanyagokat a táblázatok kezeléséhez, számításokhoz és dinamikus diagramok létrehozásához az alkalmazásokban.
-- [.NET oktatóanyagok](./cells/net/)
+- [.NET oktatóanyagok](../cells/hu/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/hu/)
 Tanuljon meg PowerPoint prezentációkat programozottan összeállítani és módosítani átfogó oktatóanyagaink segítségével.
-- [.NET oktatóanyagok](./slides/net/)
+- [.NET oktatóanyagok](../slides/hu/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/hu/)
 Fedezze fel, hogyan hozhat létre, elemezhet és kezelhet e-mail üzeneteket gyakorlati kódolási példákon és útmutatókon keresztül.
-- [.NET oktatóanyagok](./email/net/)
+- [.NET oktatóanyagok](../email/hu/net/)
 
 ---
 
 ## 🖼️ Képalkotás és grafika
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/hu/)
 Kövesse a gyakorlati oktatóanyagokat a képfeldolgozáshoz, -átalakításhoz és -manipulációhoz több formátumban.
-- [.NET oktatóanyagok](./imaging/net/)
-- [Java oktatóanyagok](./imaging/java/)
+- [.NET oktatóanyagok](../imaging/hu/net/)
+- [Java oktatóanyagok](../imaging/hu/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/hu/)
 Tanulja meg a grafika létrehozását és kezelését az alapvető formáktól a bonyolult renderelésig terjedő oktatóanyagok segítségével.
-- [.NET oktatóanyagok](./drawing/net/)
+- [.NET oktatóanyagok](../drawing/hu/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/hu/)
 Fedezze fel a Photoshop-fájlokkal való munkavégzésre vonatkozó oktatóanyagokat, beleértve a rétegkezelést és a formátumkonverziót.
-- [.NET oktatóanyagok](./psd/net/)
-- [Java oktatóanyagok](./psd/java/)
+- [.NET oktatóanyagok](../psd/hu/net/)
+- [Java oktatóanyagok](../psd/hu/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/hu/)
 Kövesse az útmutatókat a 3D modellek létrehozásához, módosításához és konvertálásához, kódpéldákkal több formátumhoz.
-- [.NET oktatóanyagok](./3d/net/)
-- [Java oktatóanyagok](./3d/java/)
+- [.NET oktatóanyagok](../3d/hu/net/)
+- [Java oktatóanyagok](../3d/hu/java/)
 
 ---
 
 ## 🔍 Felismerés és kivonás
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/hu/)
 Tanuljon meg szövegfelismerést megvalósítani képekből gyakorlati útmutatók és optimalizálási technikák segítségével.
-- [.NET oktatóanyagok](./ocr/net/)
-- [Java oktatóanyagok](./ocr/java/)
+- [.NET oktatóanyagok](../ocr/hu/net/)
+- [Java oktatóanyagok](../ocr/hu/java/)
 
-### [Aspose.BarCode](./vonalkód/)
+### [Aspose.BarCode](../vonalkód/hu/)
 Keressen lépésről lépésre útmutatókat a különféle vonalkódtípusok létrehozásához és beolvasásához az alkalmazásokban.
-- [.NET oktatóanyagok](./barcode/net/)
+- [.NET oktatóanyagok](../barcode/hu/net/)
 
 ---
 
 ## 📝 Speciális dokumentumformátumok
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/hu/)
 Fedezze fel, hogyan elemezhet, renderelhet és konvertálhat HTML dokumentumokat gyakorlati kódpéldákkal.
-- [.NET oktatóanyagok](./html/net/)
+- [.NET oktatóanyagok](../html/hu/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/hu/)
 Kövesse az oktatóanyagokat a CAD-fájlok feldolgozásához és konvertálásához részletes megvalósítási példákkal.
-- [.NET oktatóanyagok](./cad/net/)
+- [.NET oktatóanyagok](../cad/hu/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/hu/)
 Tanuljon meg tömörítési és kitömörítési technikákat az archívumkezelés gyakorlati példáival.
-- [.NET oktatóanyagok](./zip/net/)
+- [.NET oktatóanyagok](../zip/hu/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/hu/)
 Sajátítsa el a TeX dokumentumszedést és -konvertálást irányított oktatóanyagokon és kódrészleteken keresztül.
-- [.NET oktatóanyagok](./tex/net/)
-- [Java oktatóanyagok](./tex/java/)
+- [.NET oktatóanyagok](../tex/hu/net/)
+- [Java oktatóanyagok](../tex/hu/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/hu/)
 Kövesse az oktatóanyagokat az XPS- és EPS-dokumentumokkal való munkavégzéshez gyakorlati megvalósítási példákkal.
-- [.NET oktatóanyagok](./page/net/)
-- [Java oktatóanyagok](./page/java/)
+- [.NET oktatóanyagok](../page/hu/net/)
+- [Java oktatóanyagok](../page/hu/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/hu/)
 Ismerje meg, hogyan hozhat létre és kezelhet OneNote-fájlokat kódpéldák segítségével, az alapvetőtől a speciális forgatókönyvekig.
-- [.NET oktatóanyagok](./note/net/)
-- [Java oktatóanyagok](./note/java/)
+- [.NET oktatóanyagok](../note/hu/net/)
+- [Java oktatóanyagok](../note/hu/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/hu/)
 Fedezze fel, hogyan olvashat és írhat Microsoft Project fájlokat vezetett oktatóanyagokon és példákon keresztül.
-- [.NET oktatóanyagok](./tasks/net/)
-- [Java oktatóanyagok](./tasks/java/)
+- [.NET oktatóanyagok](../tasks/hu/net/)
+- [Java oktatóanyagok](../tasks/hu/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/hu/)
 Kövesse az oktatóanyagokat a térinformatikai adatok kezeléséhez a különböző GIS formátumokra és műveletekre vonatkozó példákkal.
-- [.NET oktatóanyagok](./gis/net/)
+- [.NET oktatóanyagok](../gis/hu/net/)
 
 ---
 

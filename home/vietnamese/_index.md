@@ -18,103 +18,103 @@ Chào mừng bạn đến với bộ sưu tập toàn diện các hướng dẫn
 
 ## 📊 Thư viện tài liệu
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/vi/)
 Học cách tạo, chỉnh sửa, chuyển đổi và in các tài liệu Word với các hướng dẫn từng bước và các ví dụ mã thực tế.
-- [.NET Tutorials](./words/net/)
-- [Java Tutorials](./words/java/)
-- [Python Tutorials](./words/python-net/)
+- [.NET Tutorials](../words/vi/net/)
+- [Java Tutorials](../words/vi/java/)
+- [Python Tutorials](../words/vi/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/vi/)
 Làm chủ thao tác PDF với các hướng dẫn bao gồm các kỹ thuật tạo, chỉnh sửa, chuyển đổi và trích xuất văn bản.
-- [.NET Tutorials](./pdf/net/)
+- [.NET Tutorials](../pdf/vi/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/vi/)
 Thực hiện theo các hướng dẫn để thao tác bảng tính, thực hiện tính toán và tạo biểu đồ động trong ứng dụng của bạn.
-- [.NET Tutorials](./cells/net/)
+- [.NET Tutorials](../cells/vi/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/vi/)
 Học cách xây dựng và sửa đổi các bài thuyết trình PowerPoint theo chương trình với các hướng dẫn toàn diện của chúng tôi.
-- [.NET Tutorials](./slides/net/)
+- [.NET Tutorials](../slides/vi/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/vi/)
 Khám phá cách tạo, phân tích cú pháp và quản lý tin nhắn email thông qua các ví dụ và hướng dẫn mã hóa thực tế.
-- [.NET Tutorials](./email/net/)
+- [.NET Tutorials](../email/vi/net/)
 
 ---
 
 ## 🖼️ Hình ảnh & Đồ họa
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/vi/)
 Thực hiện các hướng dẫn thực hành để xử lý, chuyển đổi và thao tác hình ảnh trên nhiều định dạng.
-- [.NET Tutorials](./imaging/net/)
-- [Java Tutorials](./imaging/java/)
+- [.NET Tutorials](../imaging/vi/net/)
+- [Java Tutorials](../imaging/vi/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/vi/)
 Học cách tạo và thao tác đồ họa với các hướng dẫn từ hình dạng cơ bản đến kết xuất phức tạp.
-- [.NET Tutorials](./drawing/net/)
+- [.NET Tutorials](../drawing/vi/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/vi/)
 Khám phá các hướng dẫn để làm việc với các tệp Photoshop, bao gồm quản lý lớp và chuyển đổi định dạng.
-- [.NET Tutorials](./psd/net/)
-- [Java Tutorials](./psd/java/)
+- [.NET Tutorials](../psd/vi/net/)
+- [Java Tutorials](../psd/vi/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/vi/)
 Thực hiện theo hướng dẫn để tạo, chỉnh sửa và chuyển đổi các mô hình 3D với các ví dụ mã cho nhiều định dạng.
-- [.NET Tutorials](./3d/net/)
-- [Java Tutorials](./3d/java/)
+- [.NET Tutorials](../3d/vi/net/)
+- [Java Tutorials](../3d/vi/java/)
 
 ---
 
 ## 🔍 Nhận dạng & Trích xuất
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/vi/)
 Học cách triển khai nhận dạng văn bản từ hình ảnh thông qua các hướng dẫn thực tế và kỹ thuật tối ưu hóa.
-- [.NET Tutorials](./ocr/net/)
-- [Java Tutorials](./ocr/java/)
+- [.NET Tutorials](../ocr/vi/net/)
+- [Java Tutorials](../ocr/vi/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/vi/)
 Tìm hướng dẫn từng bước để tạo và quét nhiều loại mã vạch khác nhau trong ứng dụng của bạn.
-- [.NET Tutorials](./barcode/net/)
+- [.NET Tutorials](../barcode/vi/net/)
 
 ---
 
 ## 📝 Định dạng tài liệu chuyên biệt
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/vi/)
 Khám phá cách phân tích cú pháp, kết xuất và chuyển đổi tài liệu HTML bằng các ví dụ mã thực tế.
-- [.NET Tutorials](./html/net/)
+- [.NET Tutorials](../html/vi/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/vi/)
 Thực hiện theo các hướng dẫn để xử lý và chuyển đổi các tệp CAD với các ví dụ triển khai chi tiết.
-- [.NET Tutorials](./cad/net/)
+- [.NET Tutorials](../cad/vi/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/vi/)
 Tìm hiểu các kỹ thuật nén và giải nén bằng các ví dụ thực tế để thao tác lưu trữ.
-- [.NET Tutorials](./zip/net/)
+- [.NET Tutorials](../zip/vi/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/vi/)
 Thành thạo việc sắp chữ và chuyển đổi tài liệu TeX thông qua các hướng dẫn có hướng dẫn và đoạn mã.
-- [.NET Tutorials](./tex/net/)
-- [Java Tutorials](./tex/java/)
+- [.NET Tutorials](../tex/vi/net/)
+- [Java Tutorials](../tex/vi/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/vi/)
 Thực hiện theo các hướng dẫn để làm việc với các tài liệu XPS và EPS có ví dụ thực tế về triển khai.
-- [.NET Tutorials](./page/net/)
-- [Java Tutorials](./page/java/)
+- [.NET Tutorials](../page/vi/net/)
+- [Java Tutorials](../page/vi/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/vi/)
 Học cách tạo và thao tác các tệp OneNote bằng các ví dụ mã từ các tình huống cơ bản đến nâng cao.
-- [.NET Tutorials](./note/net/)
-- [Java Tutorials](./note/java/)
+- [.NET Tutorials](../note/vi/net/)
+- [Java Tutorials](../note/vi/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/vi/)
 Khám phá cách đọc và ghi các tệp Microsoft Project thông qua các hướng dẫn và ví dụ có hướng dẫn.
-- [.NET Tutorials](./tasks/net/)
-- [Java Tutorials](./tasks/java/)
+- [.NET Tutorials](../tasks/vi/net/)
+- [Java Tutorials](../tasks/vi/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/vi/)
 Thực hiện theo các hướng dẫn để xử lý dữ liệu không gian địa lý với các ví dụ cho nhiều định dạng và hoạt động GIS khác nhau.
-- [.NET Tutorials](./gis/net/)
+- [.NET Tutorials](../gis/vi/net/)
 
 ---
 

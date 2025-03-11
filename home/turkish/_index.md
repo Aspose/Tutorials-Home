@@ -18,96 +18,96 @@ Aspose ürünleri için kapsamlı eğitim ve kod örnekleri koleksiyonumuza hoş
 
 ## 📊 Belge Kütüphaneleri
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/tr/)
 Adım adım eğitimler ve pratik kod örnekleriyle Word belgeleri oluşturmayı, düzenlemeyi, dönüştürmeyi ve yazdırmayı öğrenin.
-- [.NET Eğitimleri](./words/net/)
-- [Java Eğitimleri](./words/java/)
-- [Python Eğitimleri](./words/python-net/)
+- [.NET Eğitimleri](../words/tr/net/)
+- [Java Eğitimleri](../words/tr/java/)
+- [Python Eğitimleri](../words/tr/python-net/)
 
-### [Aspose.PDF](./pdf/)
-Oluşturma, düzenleme, dönüştürme ve metin çıkarma tekniklerini kapsayan eğitimlerle PDF düzenleme konusunda ustalaşın. - [.NET Eğitimleri](./pdf/net/)
+### [Aspose.PDF](../pdf/tr/)
+Oluşturma, düzenleme, dönüştürme ve metin çıkarma tekniklerini kapsayan eğitimlerle PDF düzenleme konusunda ustalaşın. - [.NET Eğitimleri](../pdf/tr/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/tr/)
 Uygulamalarınızda elektronik tabloları düzenlemek, hesaplamalar yapmak ve dinamik grafikler oluşturmak için rehberli eğitimleri izleyin.
-- [.NET Eğitimleri](./cells/net/)
+- [.NET Eğitimleri](../cells/tr/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/tr/)
 Kapsamlı eğitimlerimizle PowerPoint sunumlarını programatik olarak oluşturmayı ve değiştirmeyi öğrenin.
-- [.NET Eğitimleri](./slides/net/)
+- [.NET Eğitimleri](../slides/tr/net/)
 
-### [Aspose.Email](./email/)
-Pratik kodlama örnekleri ve kılavuzları aracılığıyla e-posta mesajlarının nasıl oluşturulacağını, ayrıştırılacağını ve yönetileceğini keşfedin. - [.NET Eğitimleri](./email/net/)
+### [Aspose.Email](../email/tr/)
+Pratik kodlama örnekleri ve kılavuzları aracılığıyla e-posta mesajlarının nasıl oluşturulacağını, ayrıştırılacağını ve yönetileceğini keşfedin. - [.NET Eğitimleri](../email/tr/net/)
 
 ---
 
 ## 🖼️ Görüntüleme ve Grafikler
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/tr/)
 Birden fazla formatta görüntü işleme, dönüştürme ve düzenleme için uygulamalı eğitimleri takip edin.
-- [.NET Eğitimleri](./imaging/net/)
-- [Java Eğitimleri](./imaging/java/)
+- [.NET Eğitimleri](../imaging/tr/net/)
+- [Java Eğitimleri](../imaging/tr/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/tr/)
 Temel şekillerden karmaşık işleme kadar uzanan eğitimlerle grafik oluşturma ve düzenlemeyi öğrenin.
-- [.NET Eğitimleri](./drawing/net/)
+- [.NET Eğitimleri](../drawing/tr/net/)
 
-### [Aspose.PSD](./psd/)
-Katman yönetimi ve format dönüştürme dahil Photoshop dosyalarıyla çalışmaya yönelik eğitimleri keşfedin. - [.NET Eğitimleri](./psd/net/)
-- [Java Eğitimleri](./psd/java/)
+### [Aspose.PSD](../psd/tr/)
+Katman yönetimi ve format dönüştürme dahil Photoshop dosyalarıyla çalışmaya yönelik eğitimleri keşfedin. - [.NET Eğitimleri](../psd/tr/net/)
+- [Java Eğitimleri](../psd/tr/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/tr/)
 Birden fazla format için kod örnekleriyle 3B modeller oluşturmak, değiştirmek ve dönüştürmek için kılavuzları izleyin.
-- [.NET Eğitimleri](./3d/net/)
-- [Java Eğitimleri](./3d/java/)
+- [.NET Eğitimleri](../3d/tr/net/)
+- [Java Eğitimleri](../3d/tr/java/)
 
 ---
 
 ## 🔍 Tanıma ve Çıkarma
 
-### [Aspose.OCR](./ocr/)
-Pratik eğitimler ve optimizasyon teknikleri aracılığıyla resimlerden metin tanımayı uygulamayı öğrenin. - [.NET Eğitimleri](./ocr/net/)
-- [Java Eğitimleri](./ocr/java/)
+### [Aspose.OCR](../ocr/tr/)
+Pratik eğitimler ve optimizasyon teknikleri aracılığıyla resimlerden metin tanımayı uygulamayı öğrenin. - [.NET Eğitimleri](../ocr/tr/net/)
+- [Java Eğitimleri](../ocr/tr/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/tr/)
 Uygulamalarınızda çeşitli barkod türlerini oluşturmak ve taramak için adım adım kılavuzlar bulun.
-- [.NET Eğitimleri](./barcode/net/)
+- [.NET Eğitimleri](../barcode/tr/net/)
 
 ---
 
 ## 📝 Özel Belge Biçimleri
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/tr/)
 Pratik kod örnekleriyle HTML belgelerini nasıl ayrıştıracağınızı, işleyeceğinizi ve dönüştüreceğinizi keşfedin.
-- [.NET Eğitimleri](./html/net/)
+- [.NET Eğitimleri](../html/tr/net/)
 
-### [Aspose.CAD](./cad/)
-Ayrıntılı uygulama örnekleriyle CAD dosyalarını işleme ve dönüştürme eğitimlerini takip edin. - [.NET Eğitimleri](./cad/net/)
+### [Aspose.CAD](../cad/tr/)
+Ayrıntılı uygulama örnekleriyle CAD dosyalarını işleme ve dönüştürme eğitimlerini takip edin. - [.NET Eğitimleri](../cad/tr/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/tr/)
 Arşiv düzenleme için pratik örneklerle sıkıştırma ve sıkıştırmayı açma tekniklerini öğrenin.
-- [.NET Eğitimleri](./zip/net/)
+- [.NET Eğitimleri](../zip/tr/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/tr/)
 Rehberli eğitimler ve kod parçacıkları aracılığıyla TeX belge dizgisi ve dönüştürme konusunda ustalaşın.
-- [.NET Eğitimleri](./tex/net/)
-- [Java Eğitimleri](./tex/java/)
+- [.NET Eğitimleri](../tex/tr/net/)
+- [Java Eğitimleri](../tex/tr/java/)
 
-### [Aspose.Page](./page/)
-Pratik uygulama örnekleriyle XPS ve EPS belgeleriyle çalışma eğitimlerini takip edin. - [.NET Eğitimleri](./page/net/)
-- [Java Eğitimleri](./page/java/)
+### [Aspose.Page](../page/tr/)
+Pratik uygulama örnekleriyle XPS ve EPS belgeleriyle çalışma eğitimlerini takip edin. - [.NET Eğitimleri](../page/tr/net/)
+- [Java Eğitimleri](../page/tr/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/tr/)
 Temel senaryolardan ileri senaryolara kadar kod örnekleriyle OneNote dosyaları oluşturmayı ve düzenlemeyi öğrenin.
-- [.NET Eğitimleri](./note/net/)
-- [Java Eğitimleri](./note/java/)
+- [.NET Eğitimleri](../note/tr/net/)
+- [Java Eğitimleri](../note/tr/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/tr/)
 Rehberli eğitimler ve örneklerle Microsoft Project dosyalarını nasıl okuyup yazacağınızı keşfedin.
-- [.NET Eğitimleri](./tasks/net/)
-- [Java Eğitimleri](./tasks/java/)
+- [.NET Eğitimleri](../tasks/tr/net/)
+- [Java Eğitimleri](../tasks/tr/java/)
 
-### [Aspose.GIS](./gis/)
-Çeşitli GIS biçimleri ve işlemleri için örneklerle coğrafi verileri işleme eğitimlerini izleyin. - [.NET Eğitimleri](./gis/net/)
+### [Aspose.GIS](../gis/tr/)
+Çeşitli GIS biçimleri ve işlemleri için örneklerle coğrafi verileri işleme eğitimlerini izleyin. - [.NET Eğitimleri](../gis/tr/net/)
 
 ---
 

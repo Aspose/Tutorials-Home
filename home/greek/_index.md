@@ -18,103 +18,103 @@ url: /el/
 
 ## 📊 Βιβλιοθήκες εγγράφων
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/el/)
 Μάθετε να δημιουργείτε, να επεξεργάζεστε, να μετατρέπετε και να εκτυπώνετε έγγραφα του Word με οδηγίες βήμα προς βήμα και πρακτικά παραδείγματα κώδικα.
-- [.NET Tutorials](./words/net/)
-- [Εκμάθηση Java](./words/java/)
-- [Οδηγίες Python](./words/python-net/)
+- [.NET Tutorials](../words/el/net/)
+- [Εκμάθηση Java](../words/el/java/)
+- [Οδηγίες Python](../words/el/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/el/)
 Κατακτήστε τον χειρισμό PDF με σεμινάρια που καλύπτουν τεχνικές δημιουργίας, επεξεργασίας, μετατροπής και εξαγωγής κειμένου.
-- [.NET Tutorials](./pdf/net/)
+- [.NET Tutorials](../pdf/el/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/el/)
 Ακολουθήστε καθοδηγούμενους οδηγούς για να χειριστείτε υπολογιστικά φύλλα, να εκτελέσετε υπολογισμούς και να δημιουργήσετε δυναμικά γραφήματα στις εφαρμογές σας.
-- [.NET Tutorials](./cells/net/)
+- [.NET Tutorials](../cells/el/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/el/)
 Μάθετε να δημιουργείτε και να τροποποιείτε τις παρουσιάσεις του PowerPoint μέσω προγραμματισμού με τα περιεκτικά μας σεμινάρια.
-- [.NET Tutorials](./slides/net/)
+- [.NET Tutorials](../slides/el/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/el/)
 Ανακαλύψτε πώς να δημιουργείτε, να αναλύετε και να διαχειρίζεστε μηνύματα email μέσω πρακτικών παραδειγμάτων κωδικοποίησης και οδηγών.
-- [.NET Tutorials](./email/net/)
+- [.NET Tutorials](../email/el/net/)
 
 ---
 
 ## 🖼️ Απεικόνιση & Γραφικά
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/el/)
 Ακολουθήστε πρακτικά μαθήματα για επεξεργασία εικόνας, μετατροπή και χειρισμό σε πολλές μορφές.
-- [.NET Tutorials](./imaging/net/)
-- [Εκμάθηση Java](./imaging/java/)
+- [.NET Tutorials](../imaging/el/net/)
+- [Εκμάθηση Java](../imaging/el/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/el/)
 Μάθετε τη δημιουργία και τον χειρισμό γραφικών με σεμινάρια που κυμαίνονται από βασικά σχήματα έως πολύπλοκη απόδοση.
-- [.NET Tutorials](./drawing/net/)
+- [.NET Tutorials](../drawing/el/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/el/)
 Εξερευνήστε μαθήματα για την εργασία με αρχεία Photoshop, συμπεριλαμβανομένης της διαχείρισης επιπέδων και της μετατροπής μορφών.
-- [.NET Tutorials](./psd/net/)
-- [Εκμάθηση Java](./psd/java/)
+- [.NET Tutorials](../psd/el/net/)
+- [Εκμάθηση Java](../psd/el/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/el/)
 Ακολουθήστε τους οδηγούς για να δημιουργήσετε, να τροποποιήσετε και να μετατρέψετε τρισδιάστατα μοντέλα με παραδείγματα κώδικα για πολλές μορφές.
-- [.NET Tutorials](./3d/net/)
-- [Εκμάθηση Java](./3d/java/)
+- [.NET Tutorials](../3d/el/net/)
+- [Εκμάθηση Java](../3d/el/java/)
 
 ---
 
 ## 🔍 Αναγνώριση & Εξαγωγή
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/el/)
 Μάθετε να εφαρμόζετε την αναγνώριση κειμένου από εικόνες μέσω πρακτικών σεμιναρίων και τεχνικών βελτιστοποίησης.
-- [.NET Tutorials](./ocr/net/)
-- [Εκμάθηση Java](./ocr/java/)
+- [.NET Tutorials](../ocr/el/net/)
+- [Εκμάθηση Java](../ocr/el/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/el/)
 Βρείτε οδηγούς βήμα προς βήμα για τη δημιουργία και τη σάρωση διαφόρων τύπων γραμμωτού κώδικα στις εφαρμογές σας.
-- [.NET Tutorials](./barcode/net/)
+- [.NET Tutorials](../barcode/el/net/)
 
 ---
 
 ## 📝 Εξειδικευμένες μορφές εγγράφων
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/el/)
 Ανακαλύψτε πώς να αναλύετε, να αποδίδετε και να μετατρέπετε έγγραφα HTML με πρακτικά παραδείγματα κώδικα.
-- [.NET Tutorials](./html/net/)
+- [.NET Tutorials](../html/el/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/el/)
 Ακολουθήστε μαθήματα για την επεξεργασία και τη μετατροπή αρχείων CAD με λεπτομερή παραδείγματα υλοποίησης.
-- [.NET Tutorials](./cad/net/)
+- [.NET Tutorials](../cad/el/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/el/)
 Μάθετε τεχνικές συμπίεσης και αποσυμπίεσης με πρακτικά παραδείγματα για χειρισμό αρχείων.
-- [.NET Tutorials](./zip/net/)
+- [.NET Tutorials](../zip/el/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/el/)
 Master TeX στοιχειοθεσία εγγράφων και μετατροπή μέσω καθοδηγούμενων σεμιναρίων και αποσπασμάτων κώδικα.
-- [.NET Tutorials](./tex/net/)
-- [Εκμάθηση Java](./tex/java/)
+- [.NET Tutorials](../tex/el/net/)
+- [Εκμάθηση Java](../tex/el/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/el/)
 Ακολουθήστε μαθήματα για εργασία με έγγραφα XPS και EPS με πρακτικά παραδείγματα εφαρμογής.
-- [.NET Tutorials](./page/net/)
-- [Εκμάθηση Java](./page/java/)
+- [.NET Tutorials](../page/el/net/)
+- [Εκμάθηση Java](../page/el/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/el/)
 Μάθετε να δημιουργείτε και να χειρίζεστε αρχεία OneNote με παραδείγματα κώδικα από βασικά έως προχωρημένα σενάρια.
-- [.NET Tutorials](./note/net/)
-- [Εκμάθηση Java](./note/java/)
+- [.NET Tutorials](../note/el/net/)
+- [Εκμάθηση Java](../note/el/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/el/)
 Ανακαλύψτε πώς να διαβάζετε και να γράφετε αρχεία Microsoft Project μέσα από καθοδηγούμενα σεμινάρια και παραδείγματα.
-- [.NET Tutorials](./tasks/net/)
-- [Τα μαθήματα Java] (./tasks/java/)
+- [.NET Tutorials](../tasks/el/net/)
+- [Τα μαθήματα Java] (../tasks/el/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/el/)
 Ακολουθήστε μαθήματα για το χειρισμό γεωχωρικών δεδομένων με παραδείγματα για διάφορες μορφές και λειτουργίες GIS.
-- [.NET Tutorials](./gis/net/)
+- [.NET Tutorials](../gis/el/net/)
 
 ---
 

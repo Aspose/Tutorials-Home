@@ -18,103 +18,103 @@ Willkommen zu unserer umfassenden Sammlung von Tutorials und Codebeispielen für
 
 ## 📊 Dokumentbibliotheken
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/de/)
 Lernen Sie mit Schritt-für-Schritt-Tutorials und praktischen Codebeispielen, Word-Dokumente zu erstellen, zu bearbeiten, zu konvertieren und zu drucken.
-- [.NET-Tutorials](./words/net/)
-- [Java-Tutorials](./words/java/)
-- [Python-Tutorials](./words/python-net/)
+- [.NET-Tutorials](../words/de/net/)
+- [Java-Tutorials](../words/de/java/)
+- [Python-Tutorials](../words/de/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/de/)
 Beherrschen Sie die PDF-Bearbeitung mit Tutorials zu Erstellungs-, Bearbeitungs-, Konvertierungs- und Textextraktionstechniken.
-- [.NET-Tutorials](./pdf/net/)
+- [.NET-Tutorials](../pdf/de/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/de/)
 Folgen Sie geführten Tutorials, um Tabellen zu bearbeiten, Berechnungen durchzuführen und dynamische Diagramme in Ihren Anwendungen zu erstellen.
-- [.NET-Tutorials](./cells/net/)
+- [.NET-Tutorials](../cells/de/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/de/)
 Lernen Sie mit unseren umfassenden Tutorials, PowerPoint-Präsentationen programmgesteuert zu erstellen und zu ändern.
-- [.NET-Tutorials](./slides/net/)
+- [.NET-Tutorials](../slides/de/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/de/)
 Erfahren Sie anhand praktischer Codierungsbeispiele und Anleitungen, wie Sie E-Mail-Nachrichten erstellen, analysieren und verwalten.
-- [.NET-Tutorials](./email/net/)
+- [.NET-Tutorials](../email/de/net/)
 
 ---
 
 ## 🖼️ Bildgebung und Grafik
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/de/)
 Folgen Sie praktischen Tutorials zur Bildverarbeitung, Konvertierung und Bearbeitung in mehreren Formaten.
-- [.NET-Tutorials](./imaging/net/)
-- [Java-Tutorials](./imaging/java/)
+- [.NET-Tutorials](../imaging/de/net/)
+- [Java-Tutorials](../imaging/de/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/de/)
 Erlernen Sie die Erstellung und Bearbeitung von Grafiken mit Tutorials, die von einfachen Formen bis hin zu komplexer Darstellung reichen.
-- [.NET-Tutorials](./drawing/net/)
+- [.NET-Tutorials](../drawing/de/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/de/)
 Entdecken Sie Tutorials zum Arbeiten mit Photoshop-Dateien, einschließlich Ebenenverwaltung und Formatkonvertierung.
-- [.NET-Tutorials](./psd/net/)
-- [Java-Tutorials](./psd/java/)
+- [.NET-Tutorials](../psd/de/net/)
+- [Java-Tutorials](../psd/de/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/de/)
 Folgen Sie Anleitungen zum Erstellen, Ändern und Konvertieren von 3D-Modellen mit Codebeispielen für mehrere Formate.
-- [.NET-Tutorials](./3d/net/)
-- [Java-Tutorials](./3d/java/)
+- [.NET-Tutorials](../3d/de/net/)
+- [Java-Tutorials](../3d/de/java/)
 
 ---
 
 ## 🔍 Erkennung und Extraktion
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/de/)
 Lernen Sie anhand praktischer Tutorials und Optimierungstechniken, Texterkennung aus Bildern zu implementieren.
-- [.NET-Tutorials](./ocr/net/)
-- [Java-Tutorials](./ocr/java/)
+- [.NET-Tutorials](../ocr/de/net/)
+- [Java-Tutorials](../ocr/de/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/de/)
 Finden Sie Schritt-für-Schritt-Anleitungen zum Generieren und Scannen verschiedener Barcodetypen in Ihren Anwendungen.
-- [.NET-Tutorials](./barcode/net/)
+- [.NET-Tutorials](../barcode/de/net/)
 
 ---
 
 ## 📝 Spezialisierte Dokumentformate
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/de/)
 Erfahren Sie anhand praktischer Codebeispiele, wie Sie HTML-Dokumente analysieren, rendern und konvertieren.
-- [.NET-Tutorials](./html/net/)
+- [.NET-Tutorials](../html/de/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/de/)
 Folgen Sie Tutorials zum Verarbeiten und Konvertieren von CAD-Dateien mit detaillierten Implementierungsbeispielen.
-- [.NET-Tutorials](./cad/net/)
+- [.NET-Tutorials](../cad/de/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/de/)
 Erlernen Sie Komprimierungs- und Dekomprimierungstechniken anhand praktischer Beispiele zur Archivbearbeitung.
-- [.NET-Tutorials](./zip/net/)
+- [.NET-Tutorials](../zip/de/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/de/)
 Beherrschen Sie den TeX-Dokumentensatz und die Konvertierung anhand geführter Tutorials und Codeausschnitte.
-- [.NET-Tutorials](./tex/net/)
-- [Java-Tutorials](./tex/java/)
+- [.NET-Tutorials](../tex/de/net/)
+- [Java-Tutorials](../tex/de/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/de/)
 Folgen Sie Tutorials zum Arbeiten mit XPS- und EPS-Dokumenten mit praktischen Implementierungsbeispielen.
-- [.NET-Tutorials](./page/net/)
-- [Java-Tutorials](./page/java/)
+- [.NET-Tutorials](../page/de/net/)
+- [Java-Tutorials](../page/de/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/de/)
 Lernen Sie, OneNote-Dateien mit Codebeispielen von einfachen bis zu fortgeschrittenen Szenarien zu erstellen und zu bearbeiten.
-- [.NET-Tutorials](./note/net/)
-- [Java-Tutorials](./note/java/)
+- [.NET-Tutorials](../note/de/net/)
+- [Java-Tutorials](../note/de/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/de/)
 Erfahren Sie anhand von geführten Tutorials und Beispielen, wie Sie Microsoft Project-Dateien lesen und schreiben.
-- [.NET-Tutorials](./tasks/net/)
-- [Java-Tutorials](./tasks/java/)
+- [.NET-Tutorials](../tasks/de/net/)
+- [Java-Tutorials](../tasks/de/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/de/)
 Folgen Sie Tutorials zum Umgang mit Geodaten mit Beispielen für verschiedene GIS-Formate und -Operationen.
-- [.NET-Tutorials](./gis/net/)
+- [.NET-Tutorials](../gis/de/net/)
 
 ---
 

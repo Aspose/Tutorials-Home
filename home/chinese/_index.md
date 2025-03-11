@@ -18,119 +18,119 @@ url: /zh/
 
 ## 📊 文档库
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/zh/)
 通过分步教程和实用代码示例学习创建、编辑、转换和打印 Word 文档。
 
-- [.NET 教程](./words/net/)
-- [Java 教程](./words/java/)
-- [Python 教程](./words/python-net/)
+- [.NET 教程](../words/zh/net/)
+- [Java 教程](../words/zh/java/)
+- [Python 教程](../words/zh/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/zh/)
 通过涵盖创建、编辑、转换和文本提取技术的教程掌握 PDF 操作。
-- [.NET 教程](./pdf/net/)
+- [.NET 教程](../pdf/zh/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/zh/)
 
 按照指导教程操作电子表格、执行计算并在应用程序中创建动态图表。
 
-- [.NET 教程](./cells/net/)
+- [.NET 教程](../cells/zh/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/zh/)
 
 通过我们全面的教程学习以编程方式构建和修改 PowerPoint 演示文稿。
 
-- [.NET 教程](./slides/net/)
+- [.NET 教程](../slides/zh/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/zh/)
 
 通过实际的编码示例和指南了解如何创建、解析和管理电子邮件。
 
-- [.NET 教程](./email/net/)
+- [.NET 教程](../email/zh/net/)
 
 ---
 
 ## 🖼️ 图像和图形
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/zh/)
 
 按照动手教程进行多种格式的图像处理、转换和操作。
-- [.NET 教程](./imaging/net/)
-- [Java 教程](./imaging/java/)
+- [.NET 教程](../imaging/zh/net/)
+- [Java 教程](../imaging/zh/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/zh/)
 通过从基本形状到复杂渲染的教程学习图形创建和操作。
-- [.NET 教程](./drawing/net/)
+- [.NET 教程](../drawing/zh/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/zh/)
 探索使用 Photoshop 文件的教程，包括图层管理和格式转换。
-- [.NET 教程](./psd/net/)
-- [Java 教程](./psd/java/)
+- [.NET 教程](../psd/zh/net/)
+- [Java 教程](../psd/zh/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/zh/)
 按照指南创建、修改和转换 3D 模型，其中包含多种格式的代码示例。
-- [.NET 教程](./3d/net/)
-- [Java 教程](./3d/java/)
+- [.NET 教程](../3d/zh/net/)
+- [Java 教程](../3d/zh/java/)
 
 ---
 
 ## 🔍 识别和提取
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/zh/)
 通过实用教程和优化技术学习从图像中实现文本识别。
-- [.NET 教程](./ocr/net/)
-- [Java 教程](./ocr/java/)
+- [.NET 教程](../ocr/zh/net/)
+- [Java 教程](../ocr/zh/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/zh/)
 查找在应用程序中生成和扫描各种条形码类型的分步指南。
-- [.NET 教程](./barcode/net/)
+- [.NET 教程](../barcode/zh/net/)
 
 ---
 
 ## 📝 专用文档格式
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/zh/)
 通过实际代码示例了解如何解析、呈现和转换 HTML 文档。
-- [.NET 教程](./html/net/)
+- [.NET 教程](../html/zh/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/zh/)
 
 按照教程处理和转换 CAD 文件，并附带详细的实施示例。
 
-- [.NET 教程](./cad/net/)
+- [.NET 教程](../cad/zh/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/zh/)
 
 通过实际的存档操作示例学习压缩和解压缩技术。
 
-- [.NET 教程](./zip/net/)
+- [.NET 教程](../zip/zh/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/zh/)
 
 通过指导教程和代码片段掌握 TeX 文档排版和转换。
 
-- [.NET 教程](./tex/net/)
+- [.NET 教程](../tex/zh/net/)
 
-- [Java 教程](./tex/java/)
+- [Java 教程](../tex/zh/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/zh/)
 
 按照教程处理 XPS 和 EPS 文档，并附带实际的实施示例。
-- [.NET 教程](./page/net/)
-- [Java 教程](./page/java/)
+- [.NET 教程](../page/zh/net/)
+- [Java 教程](../page/zh/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/zh/)
 通过从基础到高级场景的代码示例学习如何创建和操作 OneNote 文件。
-- [.NET 教程](./note/net/)
-- [Java 教程](./note/java/)
+- [.NET 教程](../note/zh/net/)
+- [Java 教程](../note/zh/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/zh/)
 通过指导教程和示例了解如何读取和写入 Microsoft Project 文件。
-- [.NET 教程](./tasks/net/)
-- [Java 教程](./tasks/java/)
+- [.NET 教程](../tasks/zh/net/)
+- [Java 教程](../tasks/zh/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/zh/)
 通过各种 GIS 格式和操作的示例，按照教程处理地理空间数据。
-- [.NET 教程](./gis/net/)
+- [.NET 教程](../gis/zh/net/)
 ---
 
 ## 需要帮助吗？

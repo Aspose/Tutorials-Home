@@ -18,103 +18,103 @@ Welkom bij onze uitgebreide verzameling tutorials en codevoorbeelden voor Aspose
 
 ## 📊 Documentbibliotheken
 
-### [Aspose.Words](./words/)
+### [Aspose.Words](../words/nl/)
 Leer Word-documenten maken, bewerken, converteren en afdrukken met stapsgewijze tutorials en praktische codevoorbeelden.
-- [.NET Tutorials](./words/net/)
-- [Java Tutorials](./words/java/)
-- [Python Tutorials](./words/python-net/)
+- [.NET Tutorials](../words/nl/net/)
+- [Java Tutorials](../words/nl/java/)
+- [Python Tutorials](../words/nl/python-net/)
 
-### [Aspose.PDF](./pdf/)
+### [Aspose.PDF](../pdf/nl/)
 Beheers PDF-manipulatie met tutorials over het maken, bewerken, converteren en extraheren van tekst.
-- [.NET Tutorials](./pdf/net/)
+- [.NET Tutorials](../pdf/nl/net/)
 
-### [Aspose.Cells](./cells/)
+### [Aspose.Cells](../cells/nl/)
 Volg begeleide tutorials om spreadsheets te bewerken, berekeningen uit te voeren en dynamische grafieken te maken in uw toepassingen.
-- [.NET Tutorials](./cells/net/)
+- [.NET Tutorials](../cells/nl/net/)
 
-### [Aspose.Slides](./slides/)
+### [Aspose.Slides](../slides/nl/)
 Leer PowerPoint-presentaties programmatisch te maken en te wijzigen met onze uitgebreide tutorials.
-- [.NET Tutorials](./slides/net/)
+- [.NET Tutorials](../slides/nl/net/)
 
-### [Aspose.Email](./email/)
+### [Aspose.Email](../email/nl/)
 Ontdek hoe u e-mailberichten kunt maken, parseren en beheren via praktische codevoorbeelden en handleidingen.
-- [.NET Tutorials](./email/net/)
+- [.NET Tutorials](../email/nl/net/)
 
 ---
 
 ## 🖼️ Imaging & Graphics
 
-### [Aspose.Imaging](./imaging/)
+### [Aspose.Imaging](../imaging/nl/)
 Volg praktische tutorials voor beeldverwerking, conversie en manipulatie in meerdere formaten.
-- [.NET Tutorials](./imaging/net/)
-- [Java Tutorials](./imaging/java/)
+- [.NET Tutorials](../imaging/nl/net/)
+- [Java Tutorials](../imaging/nl/java/)
 
-### [Aspose.Drawing](./drawing/)
+### [Aspose.Drawing](../drawing/nl/)
 Leer grafische creatie en manipulatie met tutorials die variëren van eenvoudige vormen tot complexe rendering.
-- [.NET Tutorials](./drawing/net/)
+- [.NET Tutorials](../drawing/nl/net/)
 
-### [Aspose.PSD](./psd/)
+### [Aspose.PSD](../psd/nl/)
 Bekijk tutorials voor het werken met Photoshop-bestanden, inclusief laagbeheer en formaatconversie.
-- [.NET Tutorials](./psd/net/)
-- [Java Tutorials](./psd/java/)
+- [.NET Tutorials](../psd/nl/net/)
+- [Java Tutorials](../psd/nl/java/)
 
-### [Aspose.3D](./3d/)
+### [Aspose.3D](../3d/nl/)
 Volg handleidingen om 3D-modellen te maken, wijzigen en converteren met codevoorbeelden voor meerdere formaten.
-- [.NET Tutorials](./3d/net/)
-- [Java Tutorials](./3d/java/)
+- [.NET Tutorials](../3d/nl/net/)
+- [Java Tutorials](../3d/nl/java/)
 
 ---
 
 ## 🔍 Herkenning en extractie
 
-### [Aspose.OCR](./ocr/)
+### [Aspose.OCR](../ocr/nl/)
 Leer tekstherkenning uit afbeeldingen implementeren via praktische tutorials en optimalisatietechnieken.
-- [.NET Tutorials](./ocr/net/)
-- [Java Tutorials](./ocr/java/)
+- [.NET Tutorials](../ocr/nl/net/)
+- [Java Tutorials](../ocr/nl/java/)
 
-### [Aspose.BarCode](./barcode/)
+### [Aspose.BarCode](../barcode/nl/)
 Vind stapsgewijze handleidingen voor het genereren en scannen van verschillende barcodetypen in uw toepassingen.
-- [.NET Tutorials](./barcode/net/)
+- [.NET Tutorials](../barcode/nl/net/)
 
 ---
 
 ## 📝 Gespecialiseerde documentindelingen
 
-### [Aspose.HTML](./html/)
+### [Aspose.HTML](../html/nl/)
 Ontdek hoe u HTML-documenten kunt parseren, renderen en converteren met praktische codevoorbeelden.
-- [.NET Tutorials](./html/net/)
+- [.NET Tutorials](../html/nl/net/)
 
-### [Aspose.CAD](./cad/)
+### [Aspose.CAD](../cad/nl/)
 Volg tutorials voor het verwerken en converteren van CAD-bestanden met gedetailleerde implementatievoorbeelden.
-- [.NET Tutorials](./cad/net/)
+- [.NET Tutorials](../cad/nl/net/)
 
-### [Aspose.ZIP](./zip/)
+### [Aspose.ZIP](../zip/nl/)
 Leer compressie- en decompressietechnieken met praktische voorbeelden voor archiefmanipulatie.
-- [.NET Tutorials](./zip/net/)
+- [.NET Tutorials](../zip/nl/net/)
 
-### [Aspose.TeX](./tex/)
+### [Aspose.TeX](../tex/nl/)
 Beheers TeX-documenttypesetting en -conversie via begeleide tutorials en codefragmenten.
-- [.NET Tutorials](./tex/net/)
-- [Java Tutorials](./tex/java/)
+- [.NET Tutorials](../tex/nl/net/)
+- [Java Tutorials](../tex/nl/java/)
 
-### [Aspose.Page](./page/)
+### [Aspose.Page](../page/nl/)
 Volg tutorials voor het werken met XPS- en EPS-documenten met praktische implementatievoorbeelden.
-- [.NET Tutorials](./page/net/)
-- [Java Tutorials](./page/java/)
+- [.NET Tutorials](../page/nl/net/)
+- [Java Tutorials](../page/nl/java/)
 
-### [Aspose.Note](./note/)
+### [Aspose.Note](../note/nl/)
 Leer hoe u OneNote-bestanden kunt maken en bewerken met codevoorbeelden van basis- tot geavanceerde scenario's.
-- [.NET Tutorials](./note/net/)
-- [Java Tutorials](./note/java/)
+- [.NET Tutorials](../note/nl/net/)
+- [Java Tutorials](../note/nl/java/)
 
-### [Aspose.Tasks](./tasks/)
+### [Aspose.Tasks](../tasks/nl/)
 Ontdek hoe u Microsoft Project-bestanden kunt lezen en schrijven via begeleide tutorials en voorbeelden.
-- [.NET Tutorials](./tasks/net/)
-- [Java Tutorials](./tasks/java/)
+- [.NET Tutorials](../tasks/nl/net/)
+- [Java Tutorials](../tasks/nl/java/)
 
-### [Aspose.GIS](./gis/)
+### [Aspose.GIS](../gis/nl/)
 Volg tutorials voor het verwerken van georuimtelijke gegevens met voorbeelden voor verschillende GIS-indelingen en -bewerkingen.
-- [.NET Tutorials](./gis/net/)
+- [.NET Tutorials](../gis/nl/net/)
 
 ---
 
