@@ -18,7 +18,7 @@ Bem-vindo à nossa coleção abrangente de tutoriais e exemplos de código para 
 
 ## 📊 Bibliotecas de documentos
 
-### [Aspose.Palavras](../palavras/pt/)
+### [Aspose.Words](../words/pt/)
 Aprenda a criar, editar, converter e imprimir documentos Word com tutoriais passo a passo e exemplos práticos de código.
 - [Tutoriais .NET](../words/pt/net/)
 - [Tutoriais Java](../words/pt/java/)
@@ -28,7 +28,7 @@ Aprenda a criar, editar, converter e imprimir documentos Word com tutoriais pass
 Domine a manipulação de PDF com tutoriais que abrangem técnicas de criação, edição, conversão e extração de texto.
 - [Tutoriais .NET](../pdf/pt/net/)
 
-### [Aspose. Células](../células/pt/)
+### [Aspose. Cells](../cells/pt/)
 Siga tutoriais orientados para manipular folhas de cálculo, realizar cálculos e criar gráficos dinâmicos nas suas aplicações.
 - [Tutoriais .NET](../cells/pt/net/)
 
@@ -44,12 +44,12 @@ Descubra como criar, analisar e gerir mensagens de e-mail através de exemplos p
 
 ## 🖼️ Imagem e gráficos
 
-### [Aspose.Imaging](../imagem/pt/)
+### [Aspose.Imaging](../imaging/pt/)
 Siga tutoriais práticos para o processamento, conversão e manipulação de imagens em vários formatos.
 - [Tutoriais .NET](../imaging/pt/net/)
 - [Tutoriais Java](../imaging/pt/java/)
 
-### [Aspose.Desenho](../desenho/pt/)
+### [Aspose.Drawing](../drawing/pt/)
 Aprenda a criação e manipulação de gráficos com tutoriais que vão desde formas básicas a renderizações complexas.
 - [Tutoriais .NET](../drawing/pt/net/)
 
@@ -72,7 +72,7 @@ Aprenda a implementar o reconhecimento de texto a partir de imagens através de 
 - [Tutoriais .NET](../ocr/pt/net/)
 - [Tutoriais Java](../ocr/pt/java/)
 
-### [Aspose.BarCode](../códigodebarras/pt/)
+### [Aspose.BarCode](../barcode/pt/)
 Encontre guias passo a passo para gerar e digitalizar vários tipos de códigos de barras nas suas aplicações.
 - [Tutoriais .NET](../barcode/pt/net/)
 
@@ -97,7 +97,7 @@ Domine a composição e a conversão de documentos TeX através de tutoriais gui
 - [Tutoriais .NET](../tex/pt/net/)
 - [Tutoriais Java](../tex/pt/java/)
 
-### [Aspose. Página](../página/pt/)
+### [Aspose. Page](../page/pt/)
 Siga tutoriais para trabalhar com documentos XPS e EPS com exemplos práticos de implementação.
 - [Tutoriais .NET](../page/pt/net/)
 - [Tutoriais Java](../page/pt/java/)
@@ -107,7 +107,7 @@ Aprenda a criar e manipular ficheiros OneNote com exemplos de código, desde cen
 - [Tutoriais .NET](../note/pt/net/)
 - [Tutoriais Java](../note/pt/java/)
 
-### [Aspose.Tarefas](../tarefas/pt/)
+### [Aspose.Tasks](../tasks/pt/)
 Descubra como ler e escrever ficheiros do Microsoft Project através de tutoriais e exemplos guiados.
 - [Tutoriais .NET](../tasks/pt/net/)
 - [Tutoriais Java](../tasks/pt/java/)
