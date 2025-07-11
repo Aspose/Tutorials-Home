@@ -43,6 +43,14 @@ Discover how to create, parse and manage email messages through practical coding
 
 ---
 
+## 🏥 Medical & Healthcare
+
+### [Aspose.Medical](./medical/)
+Master DICOM file processing and medical imaging with tutorials covering file operations, image rendering, and healthcare data management.
+- [.NET Tutorials](./medical/net/)
+
+---
+
 ## 🖼️ Imaging & Graphics
 
 ### [Aspose.Imaging](./imaging/)
